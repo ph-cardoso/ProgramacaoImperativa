@@ -1,0 +1,18 @@
+# Aula 04 - 16/08/2021
+
+## Variáveis e Tipagem - Javascript
+
+### Declaração de variáveis
+
+- __var__ -> variável que independe do escopo (__acesso global__)
+- __let__ -> variável __dependente do escopo__
+- __const__ -> constante __dependente do escopo__
+
+### Tipos de dados em Javascript
+
+- number -> int e float
+- string -> string
+- null -> ponteiro vazio (nulo)
+- boolean -> true or false
+- undefined -> não foi definido
+- symbol -> primitivo novo (IE6)
